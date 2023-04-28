@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "dev":"nodemon server.js"
+    "dev": "nodemon server.js"
   },
   "name": "auth",
   "version": "1.0.0",
@@ -19,5 +19,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halaalfandi/auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/halaalfandi/auth/issues"
+  },
+  "homepage": "https://github.com/halaalfandi/auth#readme",
   "description": ""
 }
